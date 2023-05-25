@@ -9,6 +9,7 @@ function App() {
   return (
     <>
       <p>cool</p>
+      <p>here is the {count}</p>
     </>
   );
 }
