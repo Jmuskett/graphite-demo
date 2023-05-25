@@ -10,6 +10,7 @@ function App() {
     <>
       <p>cool</p>
       <p>here is the {count}</p>
+      <button onClick={() => setCount(count + 1)}>click to increment</button>
     </>
   );
 }
